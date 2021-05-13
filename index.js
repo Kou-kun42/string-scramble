@@ -5,7 +5,7 @@
  * @return {String}
  */
 
-exports.scramble = (str) => {
+const scramble = (str) => {
   const strArr = str.split("");
   const len = strArr.length;
   for (var i = 0; i < len - 1; i++) {
@@ -15,4 +15,8 @@ exports.scramble = (str) => {
     strArr[j] = hold;
   }
   return strArr.join("");
+};
+
+module.exports = {
+  scramble,
 };

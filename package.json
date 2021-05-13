@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kou-kun42/string-scramble/issues"
   },
-  "homepage": "https://github.com/Kou-kun42/string-scramble#readme"
+  "homepage": "https://github.com/Kou-kun42/string-scramble#readme",
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
 }
