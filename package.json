@@ -1,5 +1,5 @@
 {
-  "name": "string-scrambler",
+  "name": "string-scramble",
   "version": "1.0.0",
   "description": "Randomly scrambles an input string.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kou-kun42/string-scrambler.git"
+    "url": "git+https://github.com/Kou-kun42/string-scramble.git"
   },
   "author": "Veer Pandya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kou-kun42/string-scrambler/issues"
+    "url": "https://github.com/Kou-kun42/string-scramble/issues"
   },
-  "homepage": "https://github.com/Kou-kun42/string-scrambler#readme"
+  "homepage": "https://github.com/Kou-kun42/string-scramble#readme"
 }
